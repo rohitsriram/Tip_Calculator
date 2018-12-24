@@ -14,6 +14,7 @@
 		F817E80321CF2B2E0088E9F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F817E80121CF2B2E0088E9F2 /* LaunchScreen.storyboard */; };
 		F817E80E21CF2B2E0088E9F2 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F817E80D21CF2B2E0088E9F2 /* Tip_CalculatorTests.swift */; };
 		F817E81921CF2B2E0088E9F2 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F817E81821CF2B2E0088E9F2 /* Tip_CalculatorUITests.swift */; };
+		F836449721CF33DE00BD680A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F836449621CF33DE00BD680A /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F817E81421CF2B2E0088E9F2 /* Tip_CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tip_CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F817E81821CF2B2E0088E9F2 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		F817E81A21CF2B2E0088E9F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F836449621CF33DE00BD680A /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				F817E7F821CF2B2D0088E9F2 /* AppDelegate.swift */,
 				F817E7FA21CF2B2D0088E9F2 /* ViewController.swift */,
 				F817E7FC21CF2B2D0088E9F2 /* Main.storyboard */,
+				F836449621CF33DE00BD680A /* SettingsViewController.swift */,
 				F817E7FF21CF2B2E0088E9F2 /* Assets.xcassets */,
 				F817E80121CF2B2E0088E9F2 /* LaunchScreen.storyboard */,
 				F817E80421CF2B2E0088E9F2 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				F817E7FB21CF2B2D0088E9F2 /* ViewController.swift in Sources */,
 				F817E7F921CF2B2D0088E9F2 /* AppDelegate.swift in Sources */,
+				F836449721CF33DE00BD680A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
